@@ -1,1 +1,1 @@
-https://github.com/TaniaS-LV/rsschool-cv/blob/gh-pages/cv.md 
+https://tanias-lv.github.io/rsschool-cv/cv
